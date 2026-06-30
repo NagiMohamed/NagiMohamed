@@ -1,4 +1,4 @@
-# NagiMohamed
+# Nagi Mohamed Nagi Kamel
 
 <h1 align="center">Hi 👋, I'm Nagi Mohamed</h1>
 
