@@ -1,5 +1,3 @@
-<h1 align="center">Nagi Mohamed Nagi Kamel
-
 <h1 align="center">Hi 👋, I'm Nagi Mohamed</h1>
 
 <h3 align="center">
